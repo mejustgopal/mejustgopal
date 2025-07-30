@@ -29,9 +29,7 @@
   <a href="https://linkedin.com/in/mejustgopal" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/YOUR_USERNAME?logo=twitter&style=for-the-badge" alt="Twitter" />
-  </a>
+  
 </p>
 
 ---
