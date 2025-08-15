@@ -22,6 +22,10 @@
 - 🌐 Portfolio *(coming soon)*
 - ⚡ Fun Fact: I debug more than I sleep 😄
 
+- <p align = "center" >
+  <img src = "https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" />
+</p>
+
 ---
 
 ## 🔧 Tech Stack
