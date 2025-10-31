@@ -9,24 +9,28 @@
   Hi, I'm <span style="color:#00FFF6;">Gopal Kumar Singh</span> 👨‍💻
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00FFF6&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;Code+Lover+%26+Tech+Explorer🚀;React+%7C+Node.js+%7C+MongoDB+%7C+Docker+%7C+Flask" alt="Typing Animation"/>
-</p>
-
 ---
 
 ## 🧠 About Me
 
-- 🔭 Currently building cool stuff with the **MERN Stack**
-- 🌱 Learning **Next.js**, **Docker**, and **Flask**
-- 💬 Ask me about **React**, **Node.js**, **Git**, or **Python**
-- 📬 Reach me at: **gopalkumarsingh7007@gmail.com**
-- 🌐 Portfolio: *Coming Soon...*
+<table>
+  <tr>
+    <td>
+
+- 🔭 Currently building cool stuff with the **MERN Stack**  
+- 🌱 Learning **Next.js**, **Docker**, and **SQL**  
+- 💬 Ask me about **React**, **Node.js**, **Git**, or **Python**  
+- 📬 Reach me at: **gopalkumarsingh7007@gmail.com**  
+- 🌐 Portfolio: *Coming Soon...*  
 - ⚡ Fun Fact: *I debug more than I sleep 😄*
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" width="300" />
-</p>
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" width="300" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
