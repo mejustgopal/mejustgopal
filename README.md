@@ -1,13 +1,30 @@
-<!-- 💫 Banner -->
+<!-- ======================= 💫 BANNER ======================= -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%" alt="Banner"/>
 </p>
 
-<!-- 👋 Introduction -->
+<!-- ======================= 👋 INTRO ======================= -->
 <h1 align="center">
   <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="40" />
   Hi, I'm <span style="color:#00FFF6;">Gopal Kumar Singh</span> 👨‍💻
 </h1>
+
+<!-- ======================= 🔥 TYPING ======================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFF6&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast;Always+Learning+New+Things" />
+</p>
+
+<!-- ======================= 👨‍💻 HERO GIF ======================= -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
+</p>
+
+<!-- ======================= 📄 RESUME ======================= -->
+<p align="center">
+  <a href="https://drive.google.com/your-resume-link" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-00FFF6?style=for-the-badge&logo=google-drive&logoColor=black"/>
+  </a>
+</p>
 
 ---
 
@@ -31,13 +48,11 @@
   </tr>
 </table>
 
-
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=js,python,java,c,cpp,html,css,react,nextjs,tailwind,nodejs,express,flask,mongodb,mysql,git,github,docker,figma&theme=dark" />
 </p>
 
@@ -59,7 +74,7 @@
 ## 🏆 Achievements & Badges
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mejustgopal&theme=gruvbox&margin-w=10&margin-h=10&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mejustgopal&theme=gruvbox&margin-w=10&margin-h=10&no-frame=true&row=2&column=3" />
 </p>
 
 ---
@@ -67,7 +82,7 @@
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -75,16 +90,16 @@
 ## 🚀 Featured Projects
 
 | Project | Description | Link |
-|----------|-------------|------|
-| 💼 **Express Salary Generator** | Node.js app that generates structured salary slips. | [🔗 View on GitHub](https://github.com/mejustgopal/day12) |
-| 🧮 More projects coming soon... | Stay tuned for awesome new builds! | 🚧 |
+|--------|-------------|------|
+| 💼 **Express Salary Generator** | Node.js app that generates structured salary slips | [🔗 View on GitHub](https://github.com/mejustgopal/day12) |
+| 🚧 More projects coming soon | Stay tuned for awesome builds | 🚀 |
 
 ---
 
 ## 👀 Profile Insights
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mejustgopal&label=Profile%20Views&color=00FFF6&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mejustgopal&label=Profile%20Views&color=00FFF6&style=flat-square" />
 </p>
 
 ---
