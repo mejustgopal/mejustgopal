@@ -9,7 +9,7 @@
   Hi, I'm <span style="color:#00FFF6;">Gopal Kumar Singh</span> 👨‍💻
 </h1>
 
-<!-- ======================= 🔥 TYPING ======================= -->
+<!-- ======================= 🔥 TYPING ANIMATION ======================= -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFF6&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast;Always+Learning+New+Things" />
 </p>
@@ -19,7 +19,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
 </p>
 
-<!-- ======================= 📄 RESUME ======================= -->
+<!-- ======================= 📄 RESUME BUTTON ======================= -->
 <p align="center">
   <a href="https://drive.google.com/your-resume-link" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Resume-00FFF6?style=for-the-badge&logo=google-drive&logoColor=black"/>
@@ -34,7 +34,7 @@
   <tr>
     <td>
 
-- 🔭 Currently building cool stuff with the **MERN Stack**  
+- 🔭 Currently building projects with the **MERN Stack**  
 - 🌱 Learning **Next.js**, **Docker**, and **SQL**  
 - 💬 Ask me about **React**, **Node.js**, **Git**, or **Python**  
 - 📬 Reach me at: **gopalkumarsingh7007@gmail.com**  
@@ -67,6 +67,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mejustgopal&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📊 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mejustgopal&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
